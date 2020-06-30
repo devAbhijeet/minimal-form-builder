@@ -1,8 +1,10 @@
-A dynamic form builder for making creating forms.
+A dynamic form builder for creating forms.
 
 - Add input fields to `form-data.js` files
 - Group form inputs
 - Create nested group
+
+[Preview](https://75kup.csb.app/)
 
 ### Installation
 
